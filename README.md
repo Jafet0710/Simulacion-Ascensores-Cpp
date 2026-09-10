@@ -6,7 +6,7 @@ Estructura Modular: Implementación avanzada mediante la separación de responsa
 
 Especificaciones Técnicas
 Lenguaje: C++ (Estándar C++11 o superior).
-Librerías del Sistema Utilizadas:** `<windows.h>` (Gestión de hilos y retardos), `<stdio.h>` y `<stdlib.h>` (Controladores de flujo de consola).
+Librerías del Sistema Utilizadas: `<windows.h>` (Gestión de hilos y retardos), `<stdio.h>` y `<stdlib.h>` (Controladores de flujo de consola).
 Paradigma: Programación Estructurada y Modular de Alta Cohesión.
 
 Cómo Ejecutar la Simulación
